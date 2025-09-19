@@ -50,13 +50,12 @@
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
-<center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSungYeon-000607&hide=contribs,icons=true&theme=radical)
 
-</center>
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rghj000)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoSungYeon-000607&layout=compact&theme=dark)
 
 <!--
 **JoSungYeon-000607/JoSungYeon-000607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
