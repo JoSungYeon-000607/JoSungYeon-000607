@@ -7,12 +7,18 @@
 
 ---
 
+<br>
+<br>
+<br>
 
 <div align=center>
     <h1>📚 STACKS</h1>
 </div>
 
 ---
+
+<br>
+<br>
 
 ### BackEnd
 ![](https://img.shields.io/badge/c-00B9CC?style=for-the-badge&logo=c&logoColor=white)
