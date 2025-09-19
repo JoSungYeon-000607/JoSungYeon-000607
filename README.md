@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <center>
-
 ## 안녕하세요 백엔드 개발자 조성연입니다!
 ## Hello, I am backend developer Seongyeon Jo!
 </center>
