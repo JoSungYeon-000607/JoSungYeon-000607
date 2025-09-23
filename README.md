@@ -57,7 +57,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoSungYeon-000607&layout=compact&theme=dark)
 
-![Programmers Badge](https://raw.githubusercontent.com/{zounsam@naver.com}/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/JoSungYeon-000607/Programmers_Badge_Generator/main/result/result.svg)
 
 <!--
 **JoSungYeon-000607/JoSungYeon-000607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
