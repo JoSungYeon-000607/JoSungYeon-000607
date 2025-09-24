@@ -12,6 +12,11 @@
 <br>
 
 <div align=center>
+    <h1>My Blog</h1>
+    <h2><link>https://m-ywork-story.tistory.com/</h2>
+</div>
+
+<div align=center>
     <h1>📚 STACKS</h1>
 </div>
 
